@@ -1,5 +1,5 @@
 <template>
-  <div>hello world i am human</div>
+  <div>hello world i am human from erth</div>
 </template>
 
 <script>
